@@ -22,13 +22,13 @@ Education
 2016 - 2022
 :   **PhD, Electrical Engineering**; University of Calgary
 
-    *Thesis title: Biometric-Enabled Decision Support 
-     Platform with Risk Assessment*
+    *Thesis title: [Biometric-Enabled Decision Support 
+     Platform with Risk Assessment](https://prism.ucalgary.ca/items/aa51e26f-c0bc-45e0-bee0-684fa3c367ce)*
 
 2012 - 2015
 :   **MSc, Electrical Engineering**; University of Calgary
 
-    *Thesis title: Facial Biometrics using RGB-Depth Data*
+    *Thesis title: [Facial Biometrics using RGB-Depth Data](https://prism.ucalgary.ca/items/5fde52c1-624d-4e09-8607-bcf6ac21a177)*
     
 2008 - 2012
 :   **BSc, Electrical Engineering**; University of Calgary
