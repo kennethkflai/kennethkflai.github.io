@@ -2,7 +2,7 @@
 layout: page
 title: Research
 description: >
-  A list of projects and publication.
+  A list of projects and publications.
 sitemap: false
 hide_description: true
 ---
@@ -12,7 +12,7 @@ hide_description: true
 
 ## 2023
 
-**K. Lai**, S. Yanushkevich, V. Shmerko, "[Fairness, Bias and Trust in Context of Biometric-enabled Autonomous Decision Support](https://link.springer.com/chapter/10.1007/978-3-662-67868-8_5)," in **Transactions on Computational Science XL**, pp. 66-87, August 2023.
+**K. Lai**, S. Yanushkevich, and V. Shmerko, "[Fairness, Bias and Trust in Context of Biometric-enabled Autonomous Decision Support](https://link.springer.com/chapter/10.1007/978-3-662-67868-8_5)," in **Transactions on Computational Science XL**, pp. 66-87, August 2023.
 
 ----
 
